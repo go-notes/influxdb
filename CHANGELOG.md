@@ -36,6 +36,7 @@ want to use the default.
 1. [20201](https://github.com/influxdata/influxdb/pull/20201): Optimize shard lookup in groups containing only one shard. Thanks @StoneYunZhao!
 1. [20155](https://github.com/influxdata/influxdb/pull/20155): Respect the `--name` option in `influx setup` whether configs already exist or not.
 1. [20155](https://github.com/influxdata/influxdb/pull/20155): Allow for 0 (infinite) values for `--retention` in `influx setup`.
+1. [20313](https://github.com/influxdata/influxdb/pull/20313): Automatically build `tsi1` indexes for shards that need it instead of falling back to `inmem`.
 
 ## v2.0.2 [2020-11-19]
 
