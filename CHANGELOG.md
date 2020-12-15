@@ -1,6 +1,11 @@
 ## v2.0.4 [unreleased]
 ----------------------
 
+### Bug Fixes
+
+1. [20348](https://github.com/influxdata/influxdb/pull/20348): Don't show the upgrade notice on fresh `influxdb2` installs.
+1. [20348](https://github.com/influxdata/influxdb/pull/20348): Ensure `config.toml` is initialized on fresh `influxdb2` installs.
+
 ## v2.0.3 [2020-12-14]
 ----------------------
 
