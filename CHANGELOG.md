@@ -1,6 +1,10 @@
 ## v2.0.4 [unreleased]
 ----------------------
 
+### Bug Fixes
+
+1. [20339](https://github.com/influxdata/influxdb/pull/20339): Include upgrade helper script in goreleaser manifest.
+
 ## v2.0.3 [2020-12-14]
 ----------------------
 
